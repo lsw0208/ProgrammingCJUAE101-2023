@@ -1,0 +1,4 @@
+﻿  소스.cpp
+C:\Users\Cju\Documents\GitHub\ProgrammingCJUAE101-2023\p.148\소스.cpp(8,10): warning C4475: 'scanf_s' : 길이 한정자 'I'은(는) 서식 지정자에서 형식 필드 문자 'f'과(와) 함께 사용할 수 없습니다.
+C:\Users\Cju\Documents\GitHub\ProgrammingCJUAE101-2023\p.148\소스.cpp(8,10): warning C4477: 'scanf_s' : 서식 문자열 '%i'에 'int *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'double *'입니다.
+  p.148.vcxproj -> C:\Users\Cju\Documents\GitHub\ProgrammingCJUAE101-2023\p.148\x64\Debug\p.148.exe

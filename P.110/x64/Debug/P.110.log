@@ -3,5 +3,4 @@ C:\Users\Cju\Documents\GitHub\ProgrammingCJUAE101-2023\P.110\P.110.cpp(8,10): wa
 C:\Users\Cju\Documents\GitHub\ProgrammingCJUAE101-2023\P.110\P.110.cpp(8,10): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
 C:\Users\Cju\Documents\GitHub\ProgrammingCJUAE101-2023\P.110\P.110.cpp(8,10): message : 누락된 variadic 인수 2이(가) 서식 문자열 '%c'에 필요합니다.
 C:\Users\Cju\Documents\GitHub\ProgrammingCJUAE101-2023\P.110\P.110.cpp(8,10): message : 이 인수는 버퍼 크기로 사용됩니다.
-C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1094,5): error MSB6006: "link.exe"이(가) 종료되었습니다(코드: 1168).
-LINK : fatal error LNK1168: C:\Users\Cju\Documents\GitHub\ProgrammingCJUAE101-2023\P.110\x64\Debug\P.110.exe을(를) 쓰기용으로 열 수 없습니다.
+  P.110.vcxproj -> C:\Users\Cju\Documents\GitHub\ProgrammingCJUAE101-2023\P.110\x64\Debug\P.110.exe

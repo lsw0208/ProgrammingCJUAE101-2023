@@ -6,9 +6,9 @@ int main() {
 
     // 사용자로부터 금액과 물건값을 입력받음
     printf("투입한 금액을 입력하세요: ");
-    scanf("%d", &insertedAmount);
+    scanf_s("%d", &insertedAmount);
     printf("물건값을 입력하세요: ");
-    scanf("%d", &itemPrice);
+    scanf_s("%d", &itemPrice);
 
     if (insertedAmount < itemPrice) {
         printf("투입한 금액이 물건값보다 작습니다. 다시 입력하세요.\n");

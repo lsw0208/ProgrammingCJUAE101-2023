@@ -5,7 +5,7 @@ int main() {
 
     // 사용자로부터 0 ~ 360[deg.] 범위의 각도 입력 받음
     printf("각도 입력 (0 ~ 360[deg.]): ");
-    scanf("%f", &angle360);
+    scanf_s("%f", &angle360);
 
     // 0 ~ 360[deg.] 범위를 -180 ~ +180[deg.] 범위로 변환
     angle180 = angle360;
